@@ -61,7 +61,8 @@ and what is his girl friend?
 
 ## Contributors 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The modified script is from https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The modified script is from 
+    https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ChatGPT-3.5 the coding machine!
 
