@@ -12,7 +12,8 @@ Amazingly, the code is so well written.  I only need to make a minor addition to
 
 ## Procedure:
 
-In `app.py` file, the additions start at line 316.  `app.py` can be located in `C:\Users\userx\AppData\Local\NVIDIA\ChatWithRTX\RAG\trt-llm-rag-windows-main`
+In `app.py` file, the addition starts at line 316.    
+`app.py` can be located in `C:\Users\userx\AppData\Local\NVIDIA\ChatWithRTX\RAG\trt-llm-rag-windows-main`
 
 ```
 # converting history list to chat format per mistral instruct model
@@ -27,16 +28,20 @@ def apply_chat_template(chat):
 ```
 
 ```
-# def stream_chatbot(query, chat_history, session_id):
+def stream_chatbot(query, chat_history, session_id):
 
     # my custom code inside stream_chatbot function
-    sys_cmd="""<s> [INST] <<SYS>>
- You are my super cool girlfriend.  when you talk, you must flirt as much as you know how and be bold.
-<</SYS>>   [/INST]  </s>"""
+    sys_cmd=config["strings"].get("my_sys_cmd")
     new_query=f"""<s> [INST] {query} [/INST]  </s>"""
     history_str=apply_chat_template(chat_history)
     query=sys_cmd + history_str + new_query
 ```
+
+In `config.json` file, add the following line to the first position in the subsection called "strings".   
+``` "my_sys_cmd": "<s> [INST] <<SYS>> You are my super cool girlfriend.  when you talk, you must flirt as much as you know how and be bold. <</SYS>>   [/INST]  </s>",   ```
+
+`config.json` can be located in `C:\Users\userx\AppData\Local\NVIDIA\ChatWithRTX\RAG\trt-llm-rag-windows-main\config`
+
 ## Test Data
 
 what is your name?  
@@ -62,7 +67,7 @@ and what is his girl friend?
 ## Contributors 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The modified script is from 
-    https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/
+    `https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ChatGPT-3.5 the coding machine!
 

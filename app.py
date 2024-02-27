@@ -325,9 +325,7 @@ def apply_chat_template(chat):
 def stream_chatbot(query, chat_history, session_id):
 
     # my custom code 
-    sys_cmd="""<s> [INST] <<SYS>>
- You are my super cool girlfriend.  when you talk, you must flirt as much as you know how and be bold.
-<</SYS>>   [/INST]  </s>"""
+    sys_cmd=config["strings"].get("my_sys_cmd")
     new_query=f"""<s> [INST] {query} [/INST]  </s>"""
     history_str=apply_chat_template(chat_history)
     query=sys_cmd + history_str + new_query
