@@ -61,12 +61,13 @@ and what is his girl friend?
 
 ## File Descriptions
 
-- **`app.py`**: A modified version.
+- **`app.py`**: A modified version.   
+- **`config.json`**: A modified version.
 
 
 ## Contributors 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The modified script is from 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chat With RTX Generative AI   
     `https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ChatGPT-3.5 the coding machine!
