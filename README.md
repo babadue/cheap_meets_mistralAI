@@ -72,7 +72,7 @@ and what is his girl friend?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project is provided "as is" and without any warranty. Use it at your own risk. 
     
-![Video](media\video1.mp4)
+![Video](media/video1.mp4)
 
 
 
