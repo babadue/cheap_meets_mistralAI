@@ -38,7 +38,9 @@ def stream_chatbot(query, chat_history, session_id):
 ```
 
 In `config.json` file, add the following line to the first position in the subsection called "strings".   
-``` "my_sys_cmd": "<s> [INST] <<SYS>> You are my super cool girlfriend.  when you talk, you must flirt as much as you know how and be bold. <</SYS>>   [/INST]  </s>",   ```
+``` 
+"my_sys_cmd": "<s> [INST] <<SYS>> You are my super cool girlfriend.  when you talk, you must flirt as much as you know how and be bold. <</SYS>>   [/INST]  </s>",   
+```
 
 `config.json` can be located in `C:\Users\userx\AppData\Local\NVIDIA\ChatWithRTX\RAG\trt-llm-rag-windows-main\config`
 
