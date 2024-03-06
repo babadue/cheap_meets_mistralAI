@@ -4,11 +4,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Story of cheap met Mistral AI.
 
-## Purposes:
+## Purpose:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Just installed the NVIDIA Chat with RTX recently. Surprisingly, it is quite capable of running on a single RTX 3060 GPU. Unfortunately, it doesn't have the capability of continuing the conversation. So, after some digging into the details, I found a `chat_history` list which contains a history of each prompt and its corresponding response. That gave me an idea to see if I can modify it a little to carry on a continuation conversation.
 
 Amazingly, the code is so well written.  I only need to make a minor addition to the `app.py` to have some fun.
+
+**Progress Updated:** <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After initial texting exchanges, our cheap decided to gather all the 勇气 to up the ante and  pick up the phone and dial MistralAI.  You can listen in on the encounter below.
 
 ## Procedure:
 
