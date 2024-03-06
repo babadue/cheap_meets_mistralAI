@@ -91,4 +91,4 @@ and what is his girl friend?
 
 
 https://github.com/babadue/cheap_meets_mistralAI/assets/116512015/29566395-51a6-4b84-a1f5-bd1027604cdd
-https://github.com/babadue/cheap_meets_mistralAI/blob/main/cheap_n_mistralai.mp3
+
