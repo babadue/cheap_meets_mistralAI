@@ -84,7 +84,7 @@ and what is his girlfriend?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project is provided "as is" and without any warranty. Use it at your own risk. 
     
 
-
+https://github.com/babadue/cheap_meets_mistralAI/assets/116512015/29566395-51a6-4b84-a1f5-bd1027604cdd
 
 https://github.com/babadue/cheap_meets_mistralAI/assets/116512015/1d9e0f32-8833-4603-ad9b-5ac6d1d86ad5
 
