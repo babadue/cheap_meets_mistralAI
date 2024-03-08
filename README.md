@@ -10,7 +10,7 @@
 
 Amazingly, the code is so well written.  I only need to make a minor addition to the `app.py` to have some fun.
 
-**Progress Update:** <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After initial texting exchanges, our cheap decides to gather all the 勇气 to up the ante and  pick up the phone and dial MistralAI.  You can listen in on the encounter below.
+**Progress Update:** <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After initial texting exchanges, our cheap decided to gather all the 勇气 to up the ante and  picked up the phone and dial MistralAI.  You can listen in on the encounter below.
 
 ## Procedure:
 
