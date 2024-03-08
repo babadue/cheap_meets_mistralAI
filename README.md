@@ -48,19 +48,19 @@ In `config.json` file, add the following line to the first position in the subse
 
 ## Test Data
 
-what is your name?
-would you like to go out with me?
-I have only $10
-I will buy a $3 drink for you and a $2 drink for me.
-now, how much money do I have left?
-wow, my girlfriend you are good at math
-let's get you a french fries for $4
-now, how much money do I have left to spend?
-I have a close friend named John. may John tag along?
-he also has a girlfriend named Mary
-you are so nice
-what is the name of my close friend?
-and what is his girlfriend?
+what is your name? \
+would you like to go out with me? \
+I have only $10 \
+I will buy a $3 drink for you and a $2 drink for me. \
+now, how much money do I have left? \
+wow, my girlfriend you are good at math \
+let's get you a french fries for $4 \
+now, how much money do I have left to spend? \
+I have a close friend named John. may John tag along? \
+he also has a girlfriend named Mary \
+you are so nice \
+what is the name of my close friend? \
+and what is his girlfriend? \
 
 
 ## File Descriptions
