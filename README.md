@@ -60,7 +60,7 @@ I have a close friend named John. may John tag along? \
 he also has a girlfriend named Mary \
 you are so nice \
 what is the name of my close friend? \
-and what is his girlfriend? \
+and what is his girlfriend? 
 
 
 ## File Descriptions
