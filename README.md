@@ -12,6 +12,8 @@ Amazingly, the code is so well written.  I only need to make a minor addition to
 
 **Progress Update:** <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After initial texting exchanges, our cheap decided to gather all the 勇气 to up the ante and picked up the phone to dial MistralAI.  You can listen in on the encounter below.
 
+## [The genie is out!](https://www.kickstarter.com/projects/babadue/a-private-customizable-ai-for-every-home)
+
 ## Procedure:
 
 In `app.py` file, the addition starts at line 316.    
