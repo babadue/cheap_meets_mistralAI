@@ -92,9 +92,6 @@ https://github.com/babadue/cheap_meets_mistralAI/assets/116512015/18c7b2b3-fca0-
 
 
 
-https://github.com/babadue/cheap_meets_mistralAI/assets/116512015/63faffd3-f1ca-40d2-867f-1461ca36adff
-
-
 
 
 https://github.com/babadue/cheap_meets_mistralAI/assets/116512015/1d9e0f32-8833-4603-ad9b-5ac6d1d86ad5
