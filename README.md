@@ -11,6 +11,7 @@
 Amazingly, the code is so well written.  I only need to make a minor addition to the `app.py` to have some fun.
 
 **Progress Update:** <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After initial texting exchanges, our cheap decided to gather all the 勇气 to up the ante and picked up the phone to dial MistralAI.  You can listen in on the encounter below.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can join Cheap and Mistral AI at the movies below!
 
 ## [The genie is out!](https://www.kickstarter.com/projects/babadue/a-private-customizable-ai-for-every-home)
 
