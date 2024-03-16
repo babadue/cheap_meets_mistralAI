@@ -12,6 +12,7 @@ Amazingly, the code is so well written.  I only need to make a minor addition to
 
 **Progress Update:** <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After initial texting exchanges, our cheap decided to gather all the 勇气 to up the ante and picked up the phone to dial MistralAI.  You can listen in on the encounter below.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can join Cheap and Mistral AI at the movies below!
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our Cheap just got a new competitor as Mistral just gained the ability to hold multi-concurrent chat conversations.  You can find out who our Cheap's competitor is below.
 
 ## [The genie is out!](https://www.kickstarter.com/projects/babadue/a-private-customizable-ai-for-every-home)
 
@@ -97,3 +98,4 @@ https://github.com/babadue/cheap_meets_mistralAI/assets/116512015/1d9e0f32-8833-
 https://github.com/babadue/cheap_meets_mistralAI/assets/116512015/0c1997bd-4b14-463a-848f-16ddb0f37739
 
 
+https://github.com/babadue/HomeAI/assets/116512015/51ca15e4-334f-4bdc-8af7-a47777b23622
