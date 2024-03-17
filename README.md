@@ -23,7 +23,12 @@ Amazingly, the code is so well written.  I only need to make a minor addition to
 
 ## Procedure:
 
-In `app.py` file, the addition starts at line 316.    
+Update:  
+
+There seemed to be two variations of `app.py` and `config.json`. One version had the YouTube-related content removed. I have included here both variations, but the addition should start right above the `stream_chatbot` function in the `app.py`.
+
+The addition starts at line 316 in my `app.py` file,  or line 197 in my `appV2.py`    
+
 `app.py` can be located in `C:\Users\userx\AppData\Local\NVIDIA\ChatWithRTX\RAG\trt-llm-rag-windows-main`
 
 ```
