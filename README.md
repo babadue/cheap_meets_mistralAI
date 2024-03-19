@@ -19,6 +19,8 @@ Amazingly, the code is so well written.  I only need to make a minor addition to
 
 * Our Cheap just got a new competitor as Mistral just gained the ability to hold multi-concurrent chat conversations.  You can find out who our Cheap's competitor is below. <br>
 
+* Our Cheap goes mobile with Mistral.  You can find out below.<br>
+
 ## [The genie is out!](https://www.kickstarter.com/projects/babadue/a-private-customizable-ai-for-every-home)
 
 ## Procedure:
@@ -108,3 +110,6 @@ https://github.com/babadue/HomeAI/assets/116512015/1d8dd372-62ab-49f4-a5a7-26299
 
 
 https://github.com/babadue/HomeAI/assets/116512015/4469f2f4-63c3-4fcf-a61d-1500a9d25421
+
+
+https://github.com/babadue/HomeAI/assets/116512015/adb22283-9e59-42a1-8b0a-8d15eec50b44
