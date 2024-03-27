@@ -19,7 +19,7 @@ Amazingly, the code is so well written.  I only need to make a minor addition to
 
 * Our Cheap just got a new competitor as Mistral just gained the ability to hold multi-concurrent chat conversations.  You can find out who our Cheap's competitor is below. <br>
 
-* Our Cheap goes simplistic with Mistral.  You can find out below.<br>
+* Our Cheap goes simplistic V2.0 with Mistral.  You can find out below.<br>
 
 ## [The genie is out!](https://www.kickstarter.com/projects/babadue/a-private-customizable-ai-for-every-home)
 
