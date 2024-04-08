@@ -120,6 +120,6 @@ https://github.com/babadue/HomeAI/assets/116512015/ca182983-a8ea-40b4-9b13-5336a
 
 https://github.com/babadue/HomeAI/assets/116512015/cfe41c73-c7db-4af3-93ae-fc52cb7dfbd8
 
-https://github.com/babadue/HomeAI/assets/116512015/c5b5b9ea-e0e5-43db-a0a2-f2cf6394a2c3
+https://github.com/babadue/HomeAI/assets/116512015/f1c40096-b8fd-4555-a566-186d4bda2827
 
-https://github.com/babadue/HomeAI/assets/116512015/09f40297-e73e-4dee-a071-73691e66d4ed
+https://github.com/babadue/HomeAI/assets/116512015/bc9d7484-af37-4d22-914d-35fce506bc14
