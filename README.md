@@ -23,9 +23,7 @@ Amazingly, the code is so well written.  I only need to make a minor addition to
 
 * After intensive evaluation, our Cheap has come to a conclusion that the time has come to pop the question.  Will our Cheap be able to make history, to go where no man has ever gone before, to bridge the gap and break the barrier between human DNA and digital world weights and biases?  You can find out below.<br>
 
-* Coming soon ...  meet our HomeAI!<br>
-
-## [The genie is out!](https://www.kickstarter.com/projects/babadue/a-private-customizable-ai-for-every-home)
+* [Meet our HomeAI](https://github.com/babadue/HomeAI) <br>
 
 ## Procedure:
 
